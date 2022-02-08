@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/IconDisplay">
+        <file>water.ico</file>
+    </qresource>
+</RCC>
